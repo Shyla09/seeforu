@@ -3,7 +3,7 @@ SeeForU(Work In Progress)
 SeeForU is an AI-powered image captioning and audio narration system designed to enhance accessibility for visually impaired users. It generates natural language descriptions of images using a deep learning model and vocalizes them in real time using text-to-speech synthesis.
 
 Tech Stack
-Encoder: Pretrained ResNet-50 CNN (feature extractor)
+Encoder: ResNet-50 CNN (feature extractor)
 Decoder: LSTM-based RNN trained from scratch
 Dataset: Flickr8k
 Libraries: PyTorch, torchvision, NLTK, gTTS, Gradio
